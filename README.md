@@ -8,3 +8,11 @@ Justin Russell
 Lucas Roberts
 
 # Languages and Techniques
+C++
+Django
+
+# Core Feature
+Posting Tweets
+"Like" a tweet
+Follow a user
+User Login
