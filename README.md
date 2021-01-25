@@ -2,17 +2,24 @@
 Group 4's repository
 
 # Members and Respective GitHub Usernames
-  -Justin Russell
-  -Lucas Roberts
-  -Meng Chen
-  - Leon Doan
+Meng Xiang Chen 
+
+Leon Doan      
+
+Justin Russell
+
+Lucas Roberts
 
 # Languages and Techniques
--C++
--Django
+C++
+
+Django
 
 # Core Feature
--Posting Tweets
--"Like" a tweet
--Follow a user
--User Login
+Posting Tweets
+
+"Like" a tweet
+
+Follow a user
+
+User Login
