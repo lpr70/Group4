@@ -2,13 +2,13 @@
 Group 4's repository
 
 # Members and Respective GitHub Usernames
-Meng Xiang Chen 
+Meng Xiang Chen (mcPython04)
 
-Leon Doan      
+Leon Doan (lmd414)
 
-Justin Russell
+Justin Russell (justin-russell)   
 
-Lucas Roberts
+Lucas Roberts (lpr70)
 
 # Languages and Techniques
 C++
